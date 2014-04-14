@@ -1,11 +1,11 @@
 CrimeByState
 ========================================================
 ## Screenshot of Rstudio for The Data Scientist’s Toolbox assignment.  Created on 4/14/2014, by user: ls0
-## Data was from: (hci.stanford.edu/jheer/workshop/data/crime/CrimeStatebyState.csv). 
-## Data was tidied using Hadley Wickham's dplyr.
-## A function called 'crime' was created so data for any USA state can be observed and plotted.
-## Hadley Wickham's ggplot2 was used to produce the graph.
-## Download and try it for any state.   
+Data was from: (hci.stanford.edu/jheer/workshop/data/crime/CrimeStatebyState.csv). 
+Data was tidied using Hadley Wickham's dplyr.
+A function called 'crime' was created so data for any USA state can be observed and plotted.
+Hadley Wickham's ggplot2 was used to produce the graph.
+Download and try it for any state.   
 **Below are the libraries used and function created to obtain data for individual states of 
 the USA.
 ```{r}
