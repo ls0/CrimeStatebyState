@@ -6,7 +6,7 @@ CrimeByState
 ## A function called 'crime' was created so data for any USA state can be observed and plotted.
 ## Hadley Wickham's ggplot2 was used to produce the graph.
 ## Download and try it for any state.   
-**Below are the librarie and function to obtain data for indicidual states of 
+**Below are the libraries used and function created to obtain data for individual states of 
 the USA.
 ```{r}
 library(dplyr)
