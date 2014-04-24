@@ -1,4 +1,4 @@
-CrimeByState
+Crime By State
 ========================================================
 Data was from: <http://hci.stanford.edu/jheer/workshop/data/crime/CrimeStatebyState.csv>   
 Data was tidied using Hadley Wickham's dplyr.
